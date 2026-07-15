@@ -1,0 +1,5 @@
+Rename your resume PDF to:
+Chester-Mikhail-De-Guzman-Resume.pdf
+
+Then place it inside this assets folder.
+The View Resume button in index.html is already linked to that filename.
