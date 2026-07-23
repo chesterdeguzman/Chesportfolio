@@ -18,7 +18,7 @@ const projectDetails = {
     findings: ['1,779 students enrolled from 2020 to 2022', '27 courses were available, but five had no enrolled students', 'Introduction to PowerBI had the highest enrollment at 805 students', 'Online self-paced learning attracted the most students', 'Course non-completion exceeded successful completion, highlighting an engagement challenge'],
     impact: 'The analysis gave Foresight BI a clearer view of demand, completion, quiz performance, and underperforming course offerings so it could improve promotion, student support, and curriculum planning.',
     repository: '#',
-    medium: '#'
+    medium: 'https://medium.com/@yosayosa/data-analysis-of-e-learning-course-data-74f90e2d6f2d'
   },
   pharma: {
     label: 'Excel · SPSS · Power BI',
